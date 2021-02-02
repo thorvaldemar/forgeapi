@@ -1,3 +1,4 @@
 <?php
-    die(json_encode(array("success" => true)));
+    // die(json_encode(array("success" => true)));
+    echo "Hello World";
 ?>
